@@ -1,0 +1,16 @@
+{
+  "LICENSE-MIT": "bb433c1bd67723cc7defe855f69b63596ccb25714bab57d48b3077110dc542c3",
+  "OFL.txt": "7e2a523e4dcdd893e0a14e5f346ac52f7f270de6fc854d277e56a78e49460580",
+  "README.md": "ccb4aa4931edab27ec8136ecdaca10e534cb50c22ddd7d20a978925a4a05bd4d",
+  "fonts/ShadeHeavyStudy.ttf": "6396f875f99eaeffdf4ddb9551a897d585a39e9bd30d475bd5df39a3b17280e0",
+  "fonts/ShadeHeavyStudy.woff": "cb1ddfc31193a2cf5c2db998d7b680677574f301579df849dcc9cd11eab024ed",
+  "fonts/ShadeThinDraft.ttf": "38a7c757bc2d820e04b10a58fa8b7cd61ca56aa565da9ed401780f5f24d47816",
+  "requirements.txt": "8c1b3e0bd99a97f094abd3c2f77717b49339f6b0c0b0a22d130c57edd672231b",
+  "sources/extend-heavy.py": "272dfdb3b9971230620bfc41214569462645e86b0ca8884d84d7402443f4ca61",
+  "sources/heavy-accent-paths.json": "6e0fd49ee1ae718bfa0bc9d4bdfb65899009f0672ab9244d90224068731939c9",
+  "sources/heavy-lowercase-paths.json": "1bd9a3cbd6fd90ef3bc561396829e0df5cacf0de5333d1035f8d6ec02b7fe5fa",
+  "sources/heavy-punctuation-paths.json": "bb085ff80033e4e805c299d92665d07230c97d7e3f748943938c970b37cf95d8",
+  "sources/menu-glyphs.json": "1c5aa2a8ac8df77e38a76d22017702972616d30dff6b8387fb48eb9e33b3f02c",
+  "sources/thin-build.py": "dac0b3723d4e757966612d8fddc6dc66c9be02497b98301e13eea72581e34e89",
+  "sources/thin-glyphs.json": "850a279fd6b4e3a4a71a5945e8fa840e5f8c477fda7e0ce66266eef0ad376543"
+}
