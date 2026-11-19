@@ -1,8 +1,12 @@
-# Shade display typefaces
+# Aperture
 
-Experimental custom display lettering for Shade. Heavy is the primary face;
-Thin is preserved as a separate related face. This is a working study, not an
+Aperture is the custom display typeface made for Shade. Heavy is the primary
+face; Thin is preserved as a separate related face. This is a working study, not an
 artist-accepted or production-ready font release.
+
+The game and the public font study are versioned separately; this repository
+contains the public construction study and is not a download for the exact
+font build currently in the game.
 
 ## Files
 - `fonts/ShadeHeavyStudy.ttf` and `.woff`: Heavy study 0.006, 142 encoded characters.
